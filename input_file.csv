@@ -1,0 +1,122 @@
+Timestamp,Email Address,Score,Percent,STUDENT First Name,STUDENT Last Name,TEACHER Last Name,PERIOD that you take THIS COURSE,SCHOOL,Question 1,Question 2,Question 3,Question 4,Question 5,Question 6,Question 7,Question 8,Question 9,Question 10,Question 11,Question 12,Question 13,Question 14,Question 15,Question 16,Question 17,Question 18,Question 19,Question 20,Question 21,Question 22,Question 23,Question 24,Question 25,Question 26,Question 27,Question 28,Question 29,Question 30
+,,,,,,,,,44.54%,19.33%,5.04%,43.70%,53.78%,45.38%,15.97%,40.34%,56.30%,78.99%,82.35%,53.78%,44.54%,49.58%,63.87%,71.43%,48.74%,62.18%,51.26%,21.85%,60.50%,22.69%,41.18%,57.98%,26.89%,52.10%,60.50%,40.34%,24.37%,26.05%
+,,,,,,,,,A,C,C,B,A,A,D,A,C,D,A,A,D,A,B,B,B,C,A,C,D,A,A,D,C,C,A,D,C,A
+4/15/2019 9:45,0000000001@domain.edu,30-Jul,23%,Student_First_1,Student_Last_1,Teacher_2,1,School_1,C,D,A,D,D,B,C,C,B,D,D,C,B,C,B,B,A,A,A,D,D,C,C,C,B,C,B,D,A,C
+4/15/2019 9:45,0000000002@domain.edu,30-Dec,40%,Student_First_2,Student_Last_2,Teacher_2,1,School_1,C,D,B,D,A,A,C,C,C,D,D,C,B,C,B,B,B,D,A,D,D,C,C,D,C,A,A,A,B,B
+4/15/2019 9:45,0000000003@domain.edu,14 / 30,47%,Student_First_3,Student_Last_3,Teacher_2,1,School_1,A,D,B,A,A,A,C,D,C,D,A,A,A,C,B,D,B,C,D,D,D,C,B,D,A,B,A,C,B,A
+4/15/2019 9:50,0000000004@domain.edu,14 / 30,47%,Student_First_4,Student_Last_4,Teacher_2,1,School_1,D,B,B,A,B,C,C,A,B,D,A,C,C,A,C,B,D,C,A,C,C,A,A,D,B,C,D,D,B,A
+4/15/2019 10:00,0000000005@domain.edu,15 / 30,50%,Student_First_5,Student_Last_5,Teacher_2,1,School_1,B,B,B,A,A,B,D,A,C,A,A,B,B,C,B,B,B,C,D,B,D,A,B,D,D,C,A,D,B,C
+4/15/2019 10:14,0000000006@domain.edu,30-Oct,33%,Student_First_6,Student_Last_6,Teacher_2,1,School_1,C,B,A,A,B,D,A,C,C,D,A,A,C,B,B,B,A,A,C,D,D,C,A,D,B,C,C,B,A,B
+4/15/2019 10:22,0000000007@domain.edu,16 / 30,53%,Student_First_7,Student_Last_7,Teacher_1,2,School_1,C,B,B,D,C,B,C,D,C,D,A,A,D,A,B,B,B,C,A,A,D,C,A,C,B,C,A,A,B,A
+4/15/2019 10:22,0000000008@domain.edu,16 / 30,53%,Student_First_8,Student_Last_8,Teacher_1,2,School_1,A,A,A,C,A,C,B,D,C,D,A,A,D,B,B,C,B,D,A,D,B,A,A,A,B,C,A,D,C,D
+4/15/2019 10:22,0000000009@domain.edu,15 / 30,50%,Student_First_9,Student_Last_9,Teacher_1,2,School_1,A,D,B,A,B,A,C,B,D,D,A,A,D,A,B,B,D,C,C,C,D,B,D,D,C,A,A,B,B,D
+4/15/2019 10:22,0000000010@domain.edu,20 / 30,67%,Student_First_10,Student_Last_10,Teacher_1,2,School_1,D,B,B,A,A,A,C,A,C,D,A,C,D,A,B,B,B,C,A,D,D,D,B,D,C,C,A,D,C,B
+4/15/2019 10:22,0000000011@domain.edu,23 / 30,77%,Student_First_11,Student_Last_11,Teacher_1,2,School_1,A,D,C,B,A,A,A,A,C,D,A,A,D,A,B,B,B,C,D,C,D,D,A,C,B,C,A,D,B,A
+4/15/2019 10:23,0000000012@domain.edu,30-Oct,33%,Student_First_12,Student_Last_12,Teacher_1,2,School_1,C,D,B,B,A,C,C,A,C,D,A,C,B,D,A,A,A,A,A,D,D,A,B,D,B,A,C,A,D,B
+4/15/2019 10:23,0000000013@domain.edu,15 / 30,50%,Student_First_13,Student_Last_13,Teacher_1,2,School_1,C,B,C,A,B,B,C,B,A,D,D,A,D,A,B,B,A,B,B,D,D,A,A,D,B,C,A,D,C,B
+4/15/2019 10:23,0000000014@domain.edu,30-Nov,37%,Student_First_14,Student_Last_14,Teacher_1,2,School_1,A,D,B,A,B,B,D,A,D,D,A,A,C,A,B,B,B,C,D,A,B,D,C,C,A,B,D,A,B,C
+4/15/2019 10:23,0000000015@domain.edu,30-Dec,40%,Student_First_15,Student_Last_15,Teacher_1,2,School_1,A,D,D,B,A,B,D,A,C,A,A,C,B,A,B,B,D,D,C,A,D,D,D,B,A,C,C,A,B,B
+4/15/2019 10:24,0000000016@domain.edu,15 / 30,50%,Student_First_16,Student_Last_16,Teacher_1,2,School_1,C,D,B,B,A,B,D,A,C,A,A,A,B,A,B,B,D,C,A,D,D,C,C,C,A,C,A,A,A,B
+4/15/2019 10:25,0000000017@domain.edu,17 / 30,57%,Student_First_17,Student_Last_17,Teacher_3,2,School_1,C,D,B,A,B,A,C,C,C,D,A,A,D,A,B,B,C,C,A,A,D,C,A,D,D,C,B,A,C,A
+4/15/2019 10:25,0000000018@domain.edu,17 / 30,57%,Student_First_18,Student_Last_18,Teacher_3,2,School_1,A,C,B,A,B,A,C,C,C,D,A,A,D,A,B,B,C,C,A,A,D,C,A,D,D,C,C,A,A,C
+4/15/2019 10:26,0000000019@domain.edu,30-Sep,30%,Student_First_19,Student_Last_19,Teacher_1,2,School_1,A,D,B,A,A,C,C,D,B,D,A,C,A,B,C,D,B,C,D,A,B,C,C,D,C,A,A,C,D,D
+4/15/2019 10:30,0000000020@domain.edu,30-Sep,30%,Student_First_20,Student_Last_20,Teacher_1,2,School_1,A,A,D,A,B,C,C,B,C,D,A,C,D,D,B,D,B,C,C,D,B,C,B,A,A,A,A,B,A,B
+4/15/2019 10:31,0000000021@domain.edu,14 / 30,47%,Student_First_21,Student_Last_21,Teacher_3,2,School_1,C,D,B,D,A,B,C,B,C,D,A,A,D,A,B,B,A,C,D,C,C,B,D,D,B,C,B,C,D,A
+4/15/2019 10:32,0000000022@domain.edu,30-Sep,30%,Student_First_22,Student_Last_22,Teacher_1,2,School_1,A,D,B,A,B,C,C,B,C,D,A,C,A,B,D,D,B,C,D,D,B,C,C,D,C,A,A,C,D,D
+4/15/2019 10:57,0000000023@domain.edu,20 / 30,67%,Student_First_23,Student_Last_23,Teacher_3,2,School_1,A,C,B,A,B,A,A,A,C,D,A,C,D,B,B,B,A,C,A,C,D,B,A,D,C,C,A,D,B,D
+4/15/2019 11:05,0000000024@domain.edu,15 / 30,50%,Student_First_24,Student_Last_24,Teacher_1,2,School_1,C,B,D,B,A,A,C,A,B,D,A,A,A,C,C,B,B,A,A,D,D,B,D,A,A,C,A,D,D,A
+4/15/2019 11:05,0000000025@domain.edu,15 / 30,50%,Student_First_25,Student_Last_25,Teacher_3,2,School_1,C,D,B,C,A,A,D,B,B,D,A,A,C,B,B,B,B,C,A,D,C,B,B,D,C,B,A,A,C,B
+4/15/2019 11:11,0000000026@domain.edu,30-Oct,33%,Student_First_26,Student_Last_26,Teacher_3,2,School_1,C,D,B,A,B,A,C,A,B,D,A,A,D,A,C,A,A,D,C,D,D,C,A,B,A,A,C,D,B,D
+4/15/2019 11:11,0000000027@domain.edu,24 / 30,80%,Student_First_27,Student_Last_27,Teacher_1,2,School_1,A,C,A,B,A,C,D,A,C,D,A,A,D,A,B,B,B,C,A,D,D,A,B,D,C,B,A,D,B,A
+4/15/2019 13:28,0000000028@domain.edu,14 / 30,47%,Student_First_28,Student_Last_28,Teacher_2,4,School_1,A,D,B,B,A,B,B,C,B,D,A,C,C,B,B,B,B,C,A,D,B,A,A,D,B,A,A,B,A,C
+4/15/2019 13:35,0000000029@domain.edu,30-Jun,20%,Student_First_29,Student_Last_29,Teacher_2,4,School_1,D,B,A,D,B,A,C,C,B,B,C,D,A,A,B,A,A,B,C,A,D,B,C,D,C,B,C,B,B,B
+4/15/2019 13:36,0000000030@domain.edu,30-Aug,27%,Student_First_30,Student_Last_30,Teacher_2,4,School_1,B,D,C,D,B,C,D,A,C,B,D,B,C,D,A,C,A,D,C,B,B,A,A,D,C,A,C,B,D,D
+4/15/2019 13:40,0000000031@domain.edu,30-Sep,30%,Student_First_31,Student_Last_31,Teacher_2,4,School_1,B,D,C,B,D,A,B,C,D,C,A,B,D,D,A,B,A,B,A,C,A,D,C,A,A,B,C,A,D,A
+4/15/2019 13:54,0000000032@domain.edu,30-Sep,30%,Student_First_32,Student_Last_32,Teacher_2,4,School_1,A,B,A,D,B,A,C,D,D,D,D,D,C,D,D,B,D,C,A,D,D,C,B,D,B,C,C,A,A,D
+4/15/2019 14:00,0000000033@domain.edu,15 / 30,50%,Student_First_33,Student_Last_33,Teacher_2,4,School_1,D,C,B,A,B,A,D,B,B,D,A,A,C,D,B,B,C,C,A,A,D,C,A,D,C,B,C,B,D,A
+4/15/2019 14:02,0000000034@domain.edu,13 / 30,43%,Student_First_34,Student_Last_34,Teacher_1,5,School_1,B,C,A,B,A,B,A,B,C,D,A,B,C,A,B,B,D,D,A,D,D,D,B,B,A,C,C,D,B,B
+4/15/2019 14:02,0000000035@domain.edu,15 / 30,50%,Student_First_35,Student_Last_35,Teacher_1,5,School_1,C,D,B,D,A,A,C,C,C,A,A,A,D,A,B,B,B,D,A,D,D,B,B,D,A,A,A,D,A,B
+4/15/2019 14:03,0000000036@domain.edu,30-Dec,40%,Student_First_36,Student_Last_36,Teacher_1,5,School_1,A,D,B,A,A,B,C,B,C,A,A,C,D,C,A,C,A,C,D,D,D,B,A,A,B,C,A,A,C,A
+4/15/2019 14:04,0000000037@domain.edu,23 / 30,77%,Student_First_37,Student_Last_37,Teacher_1,5,School_1,A,D,A,B,A,A,C,A,C,D,A,A,D,A,B,B,B,C,A,D,D,C,A,D,B,C,A,D,B,A
+4/15/2019 14:04,0000000038@domain.edu,18 / 30,60%,Student_First_38,Student_Last_38,Teacher_1,5,School_1,D,A,B,B,C,A,C,C,C,D,A,C,D,D,B,B,B,C,A,C,D,B,A,D,A,C,A,C,C,B
+4/15/2019 14:06,0000000039@domain.edu,14 / 30,47%,Student_First_39,Student_Last_39,Teacher_1,5,School_1,A,D,B,A,B,D,B,C,B,D,A,C,D,C,B,B,B,C,A,C,D,B,A,D,B,A,A,C,D,B
+4/15/2019 14:06,0000000040@domain.edu,16 / 30,53%,Student_First_40,Student_Last_40,Teacher_3,5,School_1,C,C,B,B,A,A,A,D,C,D,A,A,D,A,B,B,B,B,A,D,C,C,D,A,C,D,C,C,B,A
+4/15/2019 14:06,0000000041@domain.edu,14 / 30,47%,Student_First_41,Student_Last_41,Teacher_3,5,School_1,A,D,B,B,A,A,C,A,B,D,A,A,B,A,C,A,A,C,A,D,C,A,C,A,C,C,D,B,A,B
+4/15/2019 14:08,0000000042@domain.edu,16 / 30,53%,Student_First_42,Student_Last_42,Teacher_1,5,School_1,C,B,B,B,A,D,C,A,B,D,A,A,C,C,B,B,B,C,D,D,D,A,B,A,C,C,A,D,B,C
+4/15/2019 14:11,0000000043@domain.edu,30-Aug,27%,Student_First_43,Student_Last_43,Teacher_1,5,School_1,C,A,B,A,C,C,C,D,D,A,A,C,D,A,C,A,A,A,C,C,D,C,B,D,B,C,A,A,D,D
+4/15/2019 14:14,0000000044@domain.edu,14 / 30,47%,Student_First_44,Student_Last_44,Teacher_3,5,School_1,C,D,B,B,A,A,A,D,D,D,A,C,C,A,B,B,B,C,A,A,A,D,A,A,D,C,A,B,B,C
+4/15/2019 14:14,0000000045@domain.edu,19 / 30,63%,Student_First_45,Student_Last_45,Teacher_3,5,School_1,A,D,B,B,A,A,B,A,A,D,A,A,D,A,B,B,B,C,A,D,A,C,B,D,B,C,B,D,C,C
+4/15/2019 14:15,0000000046@domain.edu,30-Nov,37%,Student_First_46,Student_Last_46,Teacher_3,5,School_1,C,B,B,D,A,A,C,C,B,D,D,C,C,A,B,D,A,A,C,D,D,A,A,D,B,B,A,D,D,D
+4/15/2019 14:16,0000000047@domain.edu,17 / 30,57%,Student_First_47,Student_Last_47,Teacher_3,5,School_1,A,D,B,B,A,A,C,C,B,D,D,A,A,A,B,B,B,C,A,D,D,D,C,D,B,C,A,D,B,C
+4/15/2019 14:16,0000000048@domain.edu,17 / 30,57%,Student_First_48,Student_Last_48,Teacher_1,5,School_1,C,C,A,B,A,B,D,D,B,D,A,B,D,B,B,B,B,C,A,D,D,C,A,D,C,A,A,C,D,C
+4/15/2019 14:19,0000000049@domain.edu,17 / 30,57%,Student_First_49,Student_Last_49,Teacher_3,5,School_1,A,D,A,C,B,B,A,B,C,D,A,A,D,A,B,B,B,C,D,D,D,B,C,D,C,B,A,C,C,A
+4/15/2019 14:22,0000000050@domain.edu,30-Oct,33%,Student_First_50,Student_Last_50,Teacher_3,5,School_1,C,D,B,B,D,A,C,C,B,D,A,A,D,A,A,B,A,B,C,B,A,C,D,C,A,A,A,B,C,B
+4/15/2019 14:24,0000000051@domain.edu,30-Nov,37%,Student_First_51,Student_Last_51,Teacher_3,5,School_1,C,D,A,A,C,C,A,B,B,D,A,A,A,A,B,A,B,A,D,A,D,B,A,D,C,A,A,A,B,B
+4/15/2019 14:26,0000000052@domain.edu,30-Nov,37%,Student_First_52,Student_Last_52,Teacher_3,5,School_1,B,D,B,A,B,B,C,B,B,D,A,A,D,C,B,D,A,C,D,D,D,A,B,D,B,C,D,B,C,D
+4/15/2019 14:33,0000000053@domain.edu,30-May,17%,Student_First_53,Student_Last_53,Teacher_3,5,School_1,A,D,C,A,B,D,C,D,B,A,B,C,D,B,C,B,C,B,D,B,C,D,B,A,A,D,C,C,B,A
+4/15/2019 14:44,0000000054@domain.edu,30-Dec,40%,Student_First_54,Student_Last_54,Teacher_1,5,School_1,A,D,B,B,D,C,C,C,C,A,C,A,A,C,B,B,B,C,A,D,B,C,A,D,A,B,A,C,B,B
+4/15/2019 14:44,0000000055@domain.edu,30-Dec,40%,Student_First_55,Student_Last_55,Teacher_1,5,School_1,C,B,B,A,A,B,D,A,D,D,A,A,C,A,C,B,C,A,A,D,C,D,B,D,B,C,A,C,D,B
+4/15/2019 14:48,0000000056@domain.edu,30-Aug,27%,Student_First_56,Student_Last_56,Teacher_1,5,School_1,C,C,A,A,B,A,D,C,A,A,A,D,C,C,C,D,A,D,A,C,A,D,A,A,A,B,D,D,B,B
+4/15/2019 14:54,0000000057@domain.edu,16 / 30,53%,Student_First_57,Student_Last_57,Teacher_3,5,School_1,A,C,B,A,A,D,B,C,C,D,A,A,C,B,B,B,A,C,A,D,D,C,B,D,B,C,A,D,A,B
+4/15/2019 15:06,0000000058@domain.edu,30-Nov,37%,Student_First_58,Student_Last_58,Teacher_1,6,School_1,C,D,A,A,B,A,C,B,B,A,D,C,D,A,A,D,C,C,A,D,A,B,A,D,B,C,A,D,C,B
+4/15/2019 15:07,0000000059@domain.edu,14 / 30,47%,Student_First_59,Student_Last_59,Teacher_1,6,School_1,D,C,B,C,C,A,C,A,C,D,A,A,B,A,C,D,B,C,A,D,C,A,A,B,A,A,B,D,B,B
+4/15/2019 15:08,0000000060@domain.edu,13 / 30,43%,Student_First_60,Student_Last_60,Teacher_1,6,School_1,C,D,B,C,A,B,C,D,C,D,A,A,A,A,B,B,B,B,A,D,A,C,C,B,A,D,A,D,C,B
+4/15/2019 15:08,0000000061@domain.edu,15 / 30,50%,Student_First_61,Student_Last_61,Teacher_1,6,School_1,A,D,A,B,A,A,B,A,B,D,A,C,A,A,D,B,A,C,C,D,A,D,A,B,D,C,A,D,B,A
+4/15/2019 15:08,0000000062@domain.edu,30-Aug,27%,Student_First_62,Student_Last_62,Teacher_1,6,School_1,C,B,B,A,D,B,C,A,D,D,A,B,A,D,C,D,D,A,A,D,C,A,B,D,A,B,D,B,C,A
+4/15/2019 15:09,0000000063@domain.edu,14 / 30,47%,Student_First_63,Student_Last_63,Teacher_1,6,School_1,C,B,A,A,D,C,C,D,C,D,D,A,A,C,B,B,B,A,A,D,D,C,C,D,C,C,A,D,C,C
+4/15/2019 15:09,0000000064@domain.edu,14 / 30,47%,Student_First_64,Student_Last_64,Teacher_1,6,School_1,C,D,B,A,B,A,D,A,C,D,A,A,D,B,C,B,B,A,C,D,D,C,A,D,B,C,C,B,A,C
+4/15/2019 15:10,0000000065@domain.edu,13 / 30,43%,Student_First_65,Student_Last_65,Teacher_1,6,School_1,C,D,A,B,B,A,C,C,C,D,A,A,A,A,B,B,A,A,D,A,B,D,B,D,A,A,A,D,C,D
+4/15/2019 15:19,0000000066@domain.edu,21 / 30,70%,Student_First_66,Student_Last_66,Teacher_1,6,School_1,A,D,B,A,A,A,C,D,B,D,A,A,D,A,A,B,B,C,A,C,D,B,A,D,A,C,A,D,C,A
+4/15/2019 15:20,0000000067@domain.edu,30-Sep,30%,Student_First_67,Student_Last_67,Teacher_1,6,School_1,C,B,B,D,C,A,C,A,D,C,A,A,C,B,C,D,A,A,A,A,D,C,A,D,B,A,A,A,B,D
+4/15/2019 15:21,0000000068@domain.edu,14 / 30,47%,Student_First_68,Student_Last_68,Teacher_1,6,School_1,C,C,B,D,B,B,C,B,A,D,A,A,D,A,B,B,B,D,A,D,D,A,A,A,B,C,C,B,B,C
+4/15/2019 15:22,0000000069@domain.edu,30-Sep,30%,Student_First_69,Student_Last_69,Teacher_1,6,School_1,A,B,A,D,C,A,B,A,D,C,D,A,B,C,D,B,A,D,C,C,D,C,B,D,D,C,B,A,B,D
+4/15/2019 15:23,0000000070@domain.edu,30-Aug,27%,Student_First_70,Student_Last_70,Teacher_1,6,School_1,C,B,B,B,A,B,D,C,D,A,A,C,C,B,D,B,A,B,D,A,D,D,B,D,A,C,B,A,B,C
+4/15/2019 15:23,0000000071@domain.edu,30-Oct,33%,Student_First_71,Student_Last_71,Teacher_1,6,School_1,C,A,A,B,D,A,C,A,C,C,C,A,A,B,C,C,B,C,D,A,D,D,B,D,C,D,B,A,B,D
+4/15/2019 15:37,0000000072@domain.edu,14 / 30,47%,Student_First_72,Student_Last_72,Teacher_1,6,School_1,C,A,A,B,C,A,A,C,B,B,A,B,D,A,B,B,B,C,A,A,D,C,D,D,D,B,B,A,C,A
+4/15/2019 16:09,0000000073@domain.edu,16 / 30,53%,Student_First_73,Student_Last_73,Teacher_1,2,School_1,A,D,B,A,A,B,C,D,C,D,A,A,D,B,B,B,B,C,A,D,D,C,A,A,B,C,A,A,B,C
+4/15/2019 16:18,0000000074@domain.edu,30-Dec,40%,Student_First_74,Student_Last_74,Teacher_1,6,School_1,C,D,B,B,A,D,C,C,C,D,A,A,C,D,D,B,A,C,D,D,A,C,B,B,A,C,A,D,C,C
+4/15/2019 16:25,0000000075@domain.edu,30-Dec,40%,Student_First_75,Student_Last_75,Teacher_1,6,School_1,C,B,A,D,B,C,B,C,C,D,A,A,A,A,C,B,D,A,D,C,D,A,A,D,C,B,B,B,A,B
+4/15/2019 16:29,0000000076@domain.edu,17 / 30,57%,Student_First_76,Student_Last_76,Teacher_1,6,School_1,C,D,B,C,A,B,C,A,C,D,A,A,C,D,B,B,B,C,D,C,C,C,A,A,A,C,A,D,C,A
+4/16/2019 9:29,0000000077@domain.edu,18 / 30,60%,Student_First_77,Student_Last_77,Teacher_2,1,School_1,A,D,B,A,A,B,A,A,C,D,A,D,D,A,B,B,B,C,A,B,D,A,B,C,A,B,A,D,C,B
+4/16/2019 9:31,0000000078@domain.edu,15 / 30,50%,Student_First_78,Student_Last_78,Teacher_2,1,School_1,C,A,B,A,C,D,A,A,C,D,A,A,D,D,C,D,B,C,A,D,D,A,A,A,B,A,A,D,C,D
+4/16/2019 9:31,0000000079@domain.edu,30-Dec,40%,Student_First_79,Student_Last_79,Teacher_2,1,School_1,C,B,B,B,A,A,C,C,C,D,A,C,A,A,B,C,B,C,B,D,B,C,A,C,C,A,C,B,A,D
+4/16/2019 9:31,0000000080@domain.edu,30-Dec,40%,Student_First_80,Student_Last_80,Teacher_2,1,School_1,C,B,B,D,B,A,C,B,B,A,A,C,B,A,B,D,B,C,C,C,B,B,A,D,A,C,A,D,A,C
+4/16/2019 9:31,0000000081@domain.edu,14 / 30,47%,Student_First_81,Student_Last_81,Teacher_2,1,School_1,A,C,B,B,A,B,A,D,D,D,A,B,D,B,C,B,A,C,A,D,D,D,B,C,B,C,A,A,B,A
+4/16/2019 9:32,0000000082@domain.edu,21 / 30,70%,Student_First_82,Student_Last_82,Teacher_2,1,School_1,A,C,B,B,A,A,A,A,C,D,A,A,D,A,B,B,B,C,A,A,D,B,C,C,C,B,C,B,C,A
+4/16/2019 9:32,0000000083@domain.edu,18 / 30,60%,Student_First_83,Student_Last_83,Teacher_2,1,School_1,C,D,B,A,C,B,C,A,C,D,A,A,B,A,B,B,B,C,A,D,D,B,A,C,C,C,A,D,A,A
+4/16/2019 9:32,0000000084@domain.edu,18 / 30,60%,Student_First_84,Student_Last_84,Teacher_2,1,School_1,A,D,B,B,A,B,C,D,C,D,A,A,D,A,B,B,B,C,D,D,D,A,A,A,C,B,A,A,A,D
+4/16/2019 9:32,0000000085@domain.edu,30-Jun,20%,Student_First_85,Student_Last_85,Teacher_2,1,School_1,C,D,A,A,B,B,D,B,C,B,D,A,A,D,A,D,A,A,C,C,D,B,C,A,B,A,A,C,D,B
+4/16/2019 9:36,0000000086@domain.edu,15 / 30,50%,Student_First_86,Student_Last_86,Teacher_2,1,School_1,A,C,B,B,A,A,C,A,C,D,A,C,A,C,B,B,B,C,D,D,C,A,C,B,D,A,A,A,D,D
+4/16/2019 9:38,0000000087@domain.edu,30-Jun,20%,Student_First_87,Student_Last_87,Teacher_2,1,School_1,C,A,A,A,B,B,C,C,D,D,B,A,B,A,A,D,D,A,C,C,C,D,C,D,A,B,D,D,D,C
+4/16/2019 9:52,0000000088@domain.edu,30-Nov,37%,Student_First_88,Student_Last_88,Teacher_2,1,School_1,A,C,B,B,B,B,C,D,C,D,B,D,B,D,B,A,C,C,C,A,D,D,D,B,B,C,A,B,D,A
+4/16/2019 10:05,0000000089@domain.edu,13 / 30,43%,Student_First_89,Student_Last_89,Teacher_2,1,School_1,C,C,A,B,A,C,A,A,C,D,A,C,B,D,C,A,B,A,C,D,A,B,B,D,B,C,A,D,B,A
+4/16/2019 10:14,0000000090@domain.edu,30-Sep,30%,Student_First_90,Student_Last_90,Teacher_2,1,School_1,C,B,B,D,A,A,B,D,C,C,A,C,C,D,B,B,A,A,D,A,D,C,B,D,D,A,B,C,D,A
+4/16/2019 10:25,0000000091@domain.edu,30-Jul,23%,Student_First_91,Student_Last_91,Teacher_3,2,School_1,C,B,A,A,B,B,C,C,D,D,A,C,B,D,A,B,C,D,C,C,A,B,B,D,B,C,D,A,C,D
+4/16/2019 10:27,0000000092@domain.edu,30-Dec,40%,Student_First_92,Student_Last_92,Teacher_3,2,School_1,C,C,C,B,B,A,C,C,C,D,A,C,A,B,B,B,A,C,C,D,D,D,B,D,B,B,D,B,A,C
+4/16/2019 10:30,0000000093@domain.edu,15 / 30,50%,Student_First_93,Student_Last_93,Teacher_3,2,School_1,A,D,A,B,A,B,C,A,C,D,A,A,C,B,D,B,A,D,C,D,C,A,A,D,C,A,A,D,B,C
+4/16/2019 10:31,0000000094@domain.edu,30-Dec,40%,Student_First_94,Student_Last_94,Teacher_3,2,School_1,A,C,B,B,A,A,A,B,B,D,A,A,D,B,D,D,A,C,D,A,D,C,B,D,B,D,D,C,B,C
+4/16/2019 10:34,0000000095@domain.edu,30-Nov,37%,Student_First_95,Student_Last_95,Teacher_3,2,School_1,C,D,A,B,A,B,C,C,A,D,A,A,A,B,B,C,B,C,A,D,C,C,A,C,A,B,A,C,D,B
+4/16/2019 11:07,0000000096@domain.edu,18 / 30,60%,Student_First_96,Student_Last_96,Teacher_3,2,School_1,A,D,B,A,A,A,C,A,D,D,A,A,B,B,B,B,B,C,C,D,D,A,A,D,A,C,A,D,B,C
+4/16/2019 11:19,0000000097@domain.edu,30-Nov,37%,Student_First_97,Student_Last_97,Teacher_3,2,School_1,C,B,B,A,C,C,D,B,C,D,A,C,A,C,C,D,B,A,C,C,A,B,A,D,B,C,A,D,D,C
+4/16/2019 13:04,0000000098@domain.edu,15 / 30,50%,Student_First_98,Student_Last_98,Teacher_2,4,School_1,A,D,B,B,A,B,C,A,C,D,A,C,D,B,B,B,A,C,A,D,D,C,B,C,B,C,A,A,D,B
+4/16/2019 13:04,0000000099@domain.edu,30-Dec,40%,Student_First_99,Student_Last_99,Teacher_2,4,School_1,B,A,B,D,A,A,B,C,A,D,A,A,A,C,A,B,A,C,A,D,D,C,B,C,B,C,C,D,C,B
+4/16/2019 13:05,0000000100@domain.edu,13 / 30,43%,Student_First_100,Student_Last_100,Teacher_2,4,School_1,C,D,B,A,A,B,B,A,C,D,A,C,B,C,B,B,A,C,C,C,D,B,C,D,C,C,D,C,D,B
+4/16/2019 13:05,0000000101@domain.edu,16 / 30,53%,Student_First_101,Student_Last_101,Teacher_2,4,School_1,A,D,A,B,A,B,C,A,B,A,B,D,D,C,B,B,B,C,A,A,D,A,D,D,A,C,A,C,C,D
+4/16/2019 13:06,0000000102@domain.edu,18 / 30,60%,Student_First_102,Student_Last_102,Teacher_2,4,School_1,A,B,B,B,A,A,C,C,C,C,A,A,D,B,B,B,B,C,A,D,D,D,A,A,B,C,A,D,B,C
+4/16/2019 13:06,0000000103@domain.edu,30-Nov,37%,Student_First_103,Student_Last_103,Teacher_2,4,School_1,A,B,D,B,A,C,D,C,D,C,B,B,A,A,D,B,A,C,C,A,C,D,C,D,B,C,A,D,A,B
+4/16/2019 13:08,0000000104@domain.edu,17 / 30,57%,Student_First_104,Student_Last_104,Teacher_2,4,School_1,A,C,B,B,A,B,D,A,C,D,A,C,D,A,B,B,A,C,C,C,C,B,B,C,C,B,A,B,A,C
+4/16/2019 13:08,0000000105@domain.edu,13 / 30,43%,Student_First_105,Student_Last_105,Teacher_2,4,School_1,A,D,B,B,A,B,C,A,C,D,B,C,C,B,B,B,A,C,A,D,B,D,A,C,B,C,A,A,D,B
+4/16/2019 13:08,0000000106@domain.edu,14 / 30,47%,Student_First_106,Student_Last_106,Teacher_2,4,School_1,A,D,B,A,C,B,C,A,C,D,A,C,D,A,B,B,A,C,A,A,B,D,B,C,B,C,C,D,C,B
+4/16/2019 13:08,0000000107@domain.edu,17 / 30,57%,Student_First_107,Student_Last_107,Teacher_2,4,School_1,A,D,B,B,A,B,A,A,C,D,A,C,D,A,B,B,B,C,B,B,C,B,B,D,D,C,A,D,A,B
+4/16/2019 13:13,0000000108@domain.edu,30-Nov,37%,Student_First_108,Student_Last_108,Teacher_2,4,School_1,C,D,B,A,B,C,C,A,B,D,A,A,D,A,B,C,A,B,A,D,D,B,A,B,B,B,A,A,D,D
+4/16/2019 13:14,0000000109@domain.edu,20 / 30,67%,Student_First_109,Student_Last_109,Teacher_2,4,School_1,A,D,B,B,A,A,C,A,C,D,A,A,D,A,B,B,A,C,A,C,D,B,A,A,C,B,D,D,A,B
+4/16/2019 14:11,0000000110@domain.edu,20 / 30,67%,Student_First_110,Student_Last_110,Teacher_3,5,School_1,A,C,B,B,A,B,C,A,C,D,A,A,B,A,B,B,B,D,A,D,D,A,B,D,B,C,A,A,B,A
+4/16/2019 14:20,0000000111@domain.edu,20 / 30,67%,Student_First_111,Student_Last_111,Teacher_3,5,School_1,C,C,B,B,A,A,A,A,C,D,A,A,D,A,B,B,B,C,A,A,D,C,B,D,B,C,A,A,A,D
+4/16/2019 14:20,0000000112@domain.edu,30-Aug,27%,Student_First_112,Student_Last_112,Teacher_3,5,School_1,C,B,A,A,B,C,D,B,B,D,A,D,D,A,C,D,A,B,C,A,A,C,B,D,C,B,D,D,B,C
+4/16/2019 15:27,0000000113@domain.edu,13 / 30,43%,Student_First_113,Student_Last_113,Teacher_1,6,School_1,A,C,B,B,A,A,C,C,A,D,A,C,D,A,C,B,A,C,C,C,B,A,B,C,A,A,D,A,B,D
+4/16/2019 15:55,0000000114@domain.edu,15 / 30,50%,Student_First_114,Student_Last_114,Teacher_1,6,School_1,A,B,A,B,D,A,C,C,A,D,A,A,B,B,C,B,A,C,A,A,D,C,B,A,A,C,A,D,C,A
+4/17/2019 9:51,0000000115@domain.edu,13 / 30,43%,Student_First_115,Student_Last_115,Teacher_2,1,School_1,A,B,A,B,C,B,A,C,C,D,C,D,B,A,B,B,B,D,C,C,B,B,A,D,C,B,C,B,B,A
+4/17/2019 13:21,0000000116@domain.edu,21 / 30,70%,Student_First_116,Student_Last_116,Teacher_2,4,School_1,A,C,B,A,A,A,C,A,C,A,A,A,D,A,B,B,B,C,A,C,C,A,A,A,C,B,B,D,A,A
+4/17/2019 15:12,0000000117@domain.edu,18 / 30,60%,Student_First_117,Student_Last_117,Teacher_1,5,School_1,A,D,A,C,A,A,D,A,C,D,A,A,D,A,B,B,A,A,C,D,B,C,B,D,B,C,A,A,C,A
+4/17/2019 15:15,0000000118@domain.edu,30-Oct,33%,Student_First_118,Student_Last_118,Teacher_1,6,School_1,B,B,B,B,D,A,C,A,C,D,A,C,B,D,B,C,A,A,D,C,D,B,B,D,A,B,C,A,B,D
+4/18/2019 14:50,0000000119@domain.edu,18 / 30,60%,Student_First_119,Student_Last_119,Teacher_1,5,School_1,A,B,A,B,A,A,A,D,C,D,A,B,D,A,C,B,B,C,D,A,D,A,A,B,C,A,A,D,B,D
